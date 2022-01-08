@@ -1,6 +1,6 @@
 # LowCostUniversalAccess
 
-This repo supports the article: Towards a low-cost universal access cloud framework to assess STEM students.
+This repo supports the article: An inexpensive cloud framework for computer science online learning assessment.
 
 #### Abstract:
 
